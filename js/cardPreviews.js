@@ -1,0 +1,25 @@
+export const cardPreviews = {
+    'The Fool': 'theFool',
+    'The Magician': 'theMagician',
+    'The High Priestess': 'theHighPriestess',
+    'The Empress': 'theEmpress',
+    'The Emperor': 'theEmperor',
+    'The Hierophant': 'theHierophant',
+    'The Lovers': 'theLovers',
+    'The Chariot': 'chariot',
+    'Strength': 'strength',
+    'The Hermit': 'hermit',
+    'Wheel of Fortune': 'wheelOfFortune',
+    'Justice': 'justice',
+    'The Hanged Man': 'hangedMan',
+    'Death': 'death',
+    'Temperance': 'temperance',
+    'The Devil': 'theDevil',
+    'The Tower': 'theTower',
+    'The Star': 'theStar',
+    'The Moon': 'theMoon',
+    'The Sun': 'theSun',
+    'Judgement': 'judgement',
+    'The World': 'theWorld'
+}
+
